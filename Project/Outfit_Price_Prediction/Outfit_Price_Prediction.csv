@@ -1,0 +1,327 @@
+Gender,Style,Type,Size,Fabric,Brand,Price range,Up,Low,Average
+Male,Formal,Shirt,L,Denim,Cats eye,700-1000,700,1000,850
+Female,Traditional,Salwar Kameez,L,Mixed,None,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,XL,Cotton,None,0-500,0,500,250
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Male,Formal,Shirt,S,Mixed,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,XL,Cotton,Cats eye,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,M,Silk,Zaara,501-1000,501,1000,750.5
+Female,Formal,Saree,L,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Pant,XL,Mixed,None,501-1000,501,1000,750.5
+Male,Formal,Pant,XL,Denim,Yellow,1501-2000,1501,2000,1750.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,,None,2001-3000,2001,3000,2500.5
+Female,Casual,Tops,M,Denim,Zaara,1001-1500,1001,1500,1250.5
+Female,Traditional,Saree,L,Silk,Zaara,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,M,Cotton,Yellow,2001-3000,2001,3000,2500.5
+Male,Formal,Panjabi,XL,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Male,Formal,Panjabi,XL,Mixed,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Panjabi,L,Mixed,Yellow,501-1000,501,1000,750.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Traditional,Pant,XL,,Cats eye,501-1000,501,1000,750.5
+Female,Casual,T-Shirt,XL,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XS,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Casual,Shirt,M,Denim,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,T-Shirt,XL,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Salwar Kameez,XL,Silk,None,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,XL,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,M,Cotton,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Formal,Pant,XS,Mixed,None,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,Silk,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XXL,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Denim,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,XL,Mixed,Cats eye,1501-2000,1501,2000,1750.5
+Female,Casual,T-Shirt,XXL,Mixed,Yellow,0-500,0,500,250
+Female,Traditional,Salwar Kameez,S,,None,0-500,0,500,250
+Male,Casual,Shirt,L,Cotton,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,L,Denim,Yellow,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,T-Shirt,L,Mixed,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,XL,Silk,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Pant,L,Denim,None,501-1000,501,1000,750.5
+Female,Casual,Tops,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Cotton,Zaara,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,XXL,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,L,Silk,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,M,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XS,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Casual,Shirt,M,Denim,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,T-Shirt,XL,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Salwar Kameez,XL,Silk,None,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,XL,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,M,Cotton,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Formal,Pant,XS,Mixed,None,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,Silk,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XXL,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Denim,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,XL,Mixed,Cats eye,1501-2000,1501,2000,1750.5
+Female,Casual,T-Shirt,XXL,Mixed,Yellow,0-500,0,500,250
+Female,Traditional,Salwar Kameez,S,,None,0-500,0,500,250
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Male,Formal,Shirt,S,Mixed,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,XL,Cotton,Cats eye,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,M,Silk,Zaara,501-1000,501,1000,750.5
+Female,Formal,Saree,L,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Pant,XL,Mixed,None,501-1000,501,1000,750.5
+Male,Formal,Pant,XL,Denim,Yellow,1501-2000,1501,2000,1750.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,,None,2001-3000,2001,3000,2500.5
+Female,Casual,Tops,M,Denim,Zaara,1001-1500,1001,1500,1250.5
+Female,Traditional,Saree,L,Silk,Zaara,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,M,Cotton,Yellow,2001-3000,2001,3000,2500.5
+Male,Formal,Panjabi,XL,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Male,Formal,Panjabi,XL,Mixed,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Panjabi,L,Mixed,Yellow,501-1000,501,1000,750.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Male,Formal,Shirt,M,Denim,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,XL,Mixed,Cats eye,1501-2000,1501,2000,1750.5
+Female,Casual,T-Shirt,XXL,Mixed,Yellow,0-500,0,500,250
+Female,Traditional,Salwar Kameez,S,,None,0-500,0,500,250
+Male,Casual,Shirt,L,Cotton,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,L,Denim,Yellow,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,T-Shirt,L,Mixed,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,XL,Silk,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Pant,L,Denim,None,501-1000,501,1000,750.5
+Female,Casual,Tops,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Cotton,Zaara,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,XXL,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,L,Silk,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,M,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Traditional,Pant,XL,,Cats eye,501-1000,501,1000,750.5
+Female,Casual,T-Shirt,XL,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XS,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Casual,Shirt,M,Denim,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,T-Shirt,XL,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Salwar Kameez,XL,Silk,None,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,XL,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,M,Cotton,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Formal,Pant,XS,Mixed,None,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,Silk,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,,None,2001-3000,2001,3000,2500.5
+Female,Casual,Tops,M,Denim,Zaara,1001-1500,1001,1500,1250.5
+Female,Traditional,Saree,L,Silk,Zaara,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,M,Cotton,Yellow,2001-3000,2001,3000,2500.5
+Male,Formal,Panjabi,XL,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Male,Formal,Panjabi,XL,Mixed,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Panjabi,L,Mixed,Yellow,501-1000,501,1000,750.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Male,Formal,Shirt,M,Denim,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,XL,Mixed,Cats eye,1501-2000,1501,2000,1750.5
+Female,Casual,T-Shirt,XXL,Mixed,Yellow,0-500,0,500,250
+Female,Traditional,Salwar Kameez,S,,None,0-500,0,500,250
+Male,Casual,Shirt,L,Cotton,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,L,Denim,Yellow,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,T-Shirt,L,Mixed,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,XL,Silk,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Pant,L,Denim,None,501-1000,501,1000,750.5
+Female,Casual,Tops,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Cotton,Zaara,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,XXL,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,L,Silk,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,M,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Traditional,Pant,XL,,Cats eye,501-1000,501,1000,750.5
+Female,Casual,T-Shirt,XL,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XS,Cotton,Cats eye,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Casual,Shirt,M,Denim,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,T-Shirt,XL,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Salwar Kameez,XL,Silk,None,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,XL,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Salwar Kameez,M,Cotton,None,501-1000,501,1000,750.5
+Male,Formal,Shirt,M,Mixed,Zaara,1501-2000,1501,2000,1750.5
+Female,Formal,Pant,XS,Mixed,None,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,Silk,Zaara,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XL,Silk,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Pant,L,Denim,None,501-1000,501,1000,750.5
+Female,Casual,Tops,L,Mixed,Yellow,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,XXL,Cotton,Zaara,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,XXL,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,L,Silk,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,M,Mixed,None,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Male,Traditional,Panjabi,M,Silk,Cats eye,1001-1500,1001,1500,1250.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Traditional,Pant,XL,,Cats eye,501-1000,501,1000,750.5
+Female,Casual,T-Shirt,XL,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,L,,Zaara,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,S,Cotton,Yellow,1001-1500,1001,1500,1250.5
+Female,Casual,Saree,M,,Yellow,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,S,Denim,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,,None,2001-3000,2001,3000,2500.5
+Female,Casual,Tops,M,Denim,Zaara,1001-1500,1001,1500,1250.5
+Female,Traditional,Saree,L,Silk,Zaara,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,M,Cotton,Yellow,2001-3000,2001,3000,2500.5
+Male,Formal,Panjabi,XL,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Male,Formal,Panjabi,XL,Mixed,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Panjabi,L,Mixed,Yellow,501-1000,501,1000,750.5
+Male,Formal,Shirt,L,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Male,Casual,T-Shirt,S,Mixed,None,0-500,0,500,250
+Male,Formal,Shirt,M,Denim,Yellow,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Salwar Kameez,S,,None,2001-3000,2001,3000,2500.5
+Female,Casual,Tops,M,Denim,Zaara,1001-1500,1001,1500,1250.5
+Female,Traditional,Saree,L,Silk,Zaara,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,M,Cotton,Yellow,2001-3000,2001,3000,2500.5
+Male,Formal,Panjabi,XL,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Male,Traditional,Panjabi,XXL,Mixed,Yellow,1501-2000,1501,2000,1750.5
+Male,Formal,Panjabi,XL,Mixed,Aarong,1501-2000,1501,2000,1750.5
+Male,Casual,Panjabi,L,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Silk,Aarong,1501-2000,1501,2000,1750.5
+Female,Casual,Pant,L,Cotton,Zaara,501-1000,501,1000,750.5
+Male,Casual,T-Shirt,M,Cotton,Cats eye,0-500,0,500,250
+Male,Casual,Pant,S,Mixed,Yellow,501-1000,501,1000,750.5
+Female,Formal,Shirt,M,Denim,Cats eye,1001-1500,1001,1500,1250.5
+Female,Formal,Pant,L,Mixed,None,501-1000,501,1000,750.5
+Female,Traditional,Saree,M,Cotton,Aarong,2001-3000,2001,3000,2500.5
+Male,Casual,Shirt,L,Denim,Yellow,1501-2000,1501,2000,1750.5
+Female,Traditional,Saree,S,Cotton,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,M,Mixed,Aarong,1001-1500,1001,1500,1250.5
+Female,Casual,Tops,S,Mixed,Zaara,501-1000,501,1000,750.5
+Female,Casual,Salwar Kameez,XL,Mixed,Aarong,2001-3000,2001,3000,2500.5
+Male,Formal,Shirt,XL,Denim,None,1501-2000,1501,2000,1750.5
+Male,Formal,Shirt,XXL,Mixed,Cats eye,2001-3000,2001,3000,2500.5
+Male,Traditional,Panjabi,L,Cotton,Aarong,1501-2000,1501,2000,1750.5
